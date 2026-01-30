@@ -1,2 +1,8 @@
-pas d'instruction pour l'instant :)
-- test depuis visual studio code.
+#PSI 
+Projet Scientifique Informatique
+
+#Membres du projet
+
+MOKRANI Amina Anais
+NAVEAU Baptiste
+OFFREDO Lucas
