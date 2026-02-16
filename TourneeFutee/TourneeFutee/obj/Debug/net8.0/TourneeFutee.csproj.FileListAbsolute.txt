@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.exe
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.deps.json
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.runtimeconfig.json
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.dll
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.pdb
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.sourcelink.json
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.dll
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\refint\TourneeFutee.dll
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.pdb
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.genruntimeconfig.cache
+C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\ref\TourneeFutee.dll
