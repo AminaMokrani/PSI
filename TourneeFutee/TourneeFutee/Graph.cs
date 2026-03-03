@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 
 namespace TourneeFutee
@@ -114,6 +115,33 @@ namespace TourneeFutee
 
             if (!_directed)
                 _adjMatrix.SetValue(j, i, _noEdgeValue);
+        }
+
+        public float GetEdgeWeight(string sourceName, string destinationName)
+        {
+            int i = GetVertexIndex(sourceName);
+            int j = GetVertexIndex(destinationName);
+
+            float weight = _adjMatrix.GetValue(i, j);
+
+            if (weight == _noEdgeValue)
+                throw new ArgumentException("Edge does not exist");
+
+            return weight;
+        }
+
+        public void SetEdgeWeight(string sourceName, string destinationName, float weight)
+        {
+            int i = GetVertexIndex(sourceName);
+            int j = GetVertexIndex(destinationName);
+
+            if (_adjMatrix.GetValue(i, j) == _noEdgeValue)
+                throw new ArgumentException("Edge n'existe pas");
+
+            _adjMatrix.SetValue(i, j, weight);
+
+            if (!_directed)
+                _adjMatrix.SetValue(j, i, weight);
         }
     }
 }
