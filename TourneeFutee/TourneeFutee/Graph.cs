@@ -12,7 +12,7 @@ namespace TourneeFutee
         private List<string> _vertexNames;
         private List<float> _vertexValues;
 
-   
+
         public Graph(bool directed, float noEdgeValue = 0)
         {
             _directed = directed;
@@ -23,12 +23,13 @@ namespace TourneeFutee
             _vertexValues = new List<float>();
         }
 
-  
+
         public int Order => _vertexNames.Count;
 
         public bool Directed => _directed;
+        public List<string> VertexNames => new List<string>(_vertexNames);
 
-   
+
         private int GetVertexIndex(string name)
         {
             int index = _vertexNames.IndexOf(name);
@@ -37,7 +38,7 @@ namespace TourneeFutee
             return index;
         }
 
-      
+
         public void AddVertex(string name, float value = 0)
         {
             if (_vertexNames.Contains(name))
@@ -87,7 +88,7 @@ namespace TourneeFutee
             return neighbors;
         }
 
-      
+
         public void AddEdge(string sourceName, string destinationName, float weight = 1)
         {
             int i = GetVertexIndex(sourceName);

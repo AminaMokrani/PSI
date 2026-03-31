@@ -13,3 +13,47 @@ C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRAN
 C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.pdb
 C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.genruntimeconfig.cache
 C:\Users\Asus\source\repos\AminaMokrani\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\TourneeFutee\TourneeFutee\obj\Debug\net8.0\ref\TourneeFutee.dll
+C:\backup git\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.exe
+C:\backup git\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.deps.json
+C:\backup git\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.runtimeconfig.json
+C:\backup git\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.dll
+C:\backup git\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.pdb
+C:\backup git\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.GeneratedMSBuildEditorConfig.editorconfig
+C:\backup git\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.AssemblyInfoInputs.cache
+C:\backup git\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.AssemblyInfo.cs
+C:\backup git\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.csproj.CoreCompileInputs.cache
+C:\backup git\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.sourcelink.json
+C:\backup git\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.dll
+C:\backup git\TourneeFutee\TourneeFutee\obj\Debug\net8.0\refint\TourneeFutee.dll
+C:\backup git\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.pdb
+C:\backup git\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.genruntimeconfig.cache
+C:\backup git\TourneeFutee\TourneeFutee\obj\Debug\net8.0\ref\TourneeFutee.dll
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.exe
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.deps.json
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.runtimeconfig.json
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.dll
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.pdb
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.GeneratedMSBuildEditorConfig.editorconfig
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.AssemblyInfoInputs.cache
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.AssemblyInfo.cs
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.csproj.CoreCompileInputs.cache
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.dll
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\obj\Debug\net8.0\refint\TourneeFutee.dll
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.pdb
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.genruntimeconfig.cache
+D:\bakcup-C\PSI\PSI-main\PSI-main\TourneeFutee\TourneeFutee\obj\Debug\net8.0\ref\TourneeFutee.dll
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.exe
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.deps.json
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.runtimeconfig.json
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.dll
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\bin\Debug\net8.0\TourneeFutee.pdb
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.GeneratedMSBuildEditorConfig.editorconfig
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.AssemblyInfoInputs.cache
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.AssemblyInfo.cs
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.csproj.CoreCompileInputs.cache
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.sourcelink.json
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.dll
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\obj\Debug\net8.0\refint\TourneeFutee.dll
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.pdb
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\obj\Debug\net8.0\TourneeFutee.genruntimeconfig.cache
+D:\bakcup-C\PSI\PSI\TourneeFutee\TourneeFutee\obj\Debug\net8.0\ref\TourneeFutee.dll

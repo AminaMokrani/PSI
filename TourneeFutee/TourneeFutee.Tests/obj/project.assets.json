@@ -1668,23 +1668,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {},
+    "C:\\Users\\VICTUS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\AminaMokrani\\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\\TourneeFutee\\TourneeFutee.Tests\\TourneeFutee.Tests.csproj",
+      "projectUniqueName": "D:\\bakcup-C\\PSI\\PSI\\TourneeFutee\\TourneeFutee.Tests\\TourneeFutee.Tests.csproj",
       "projectName": "TourneeFutee.Tests",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\AminaMokrani\\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\\TourneeFutee\\TourneeFutee.Tests\\TourneeFutee.Tests.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\AminaMokrani\\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\\TourneeFutee\\TourneeFutee.Tests\\obj\\",
+      "projectPath": "D:\\bakcup-C\\PSI\\PSI\\TourneeFutee\\TourneeFutee.Tests\\TourneeFutee.Tests.csproj",
+      "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
+      "outputPath": "D:\\bakcup-C\\PSI\\PSI\\TourneeFutee\\TourneeFutee.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1697,10 +1697,11 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Asus\\source\\repos\\AminaMokrani\\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj": {
-              "projectPath": "C:\\Users\\Asus\\source\\repos\\AminaMokrani\\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj"
+            "D:\\bakcup-C\\PSI\\PSI\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj": {
+              "projectPath": "D:\\bakcup-C\\PSI\\PSI\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj"
             }
           }
         }
@@ -1715,10 +1716,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "MSTest": {
@@ -1746,7 +1748,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

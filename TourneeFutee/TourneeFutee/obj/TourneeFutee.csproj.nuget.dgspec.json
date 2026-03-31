@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\AminaMokrani\\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj": {}
+    "D:\\bakcup-C\\PSI\\PSI\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\AminaMokrani\\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj": {
+    "D:\\bakcup-C\\PSI\\PSI\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\AminaMokrani\\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj",
+        "projectUniqueName": "D:\\bakcup-C\\PSI\\PSI\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj",
         "projectName": "TourneeFutee",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\AminaMokrani\\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\AminaMokrani\\Probleme_scientifique_ESILV_A2_S2-MOKRANI_Amina-NAVEAU_Baptiste-OFFREDO_Lucas\\TourneeFutee\\TourneeFutee\\obj\\",
+        "projectPath": "D:\\bakcup-C\\PSI\\PSI\\TourneeFutee\\TourneeFutee\\TourneeFutee.csproj",
+        "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
+        "outputPath": "D:\\bakcup-C\\PSI\\PSI\\TourneeFutee\\TourneeFutee\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -65,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
